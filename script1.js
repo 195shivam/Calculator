@@ -169,3 +169,5 @@ function insertInput(value) {
 function clearTextField() {
   formInput.value = "";
 }
+
+// Lorem ipsum, dolor sit amet consectetur adipisicing elit. Expedita ad omnis exercitationem accusantium error numquam vero illo, recusandae soluta dolorem commodi harum eligendi.
